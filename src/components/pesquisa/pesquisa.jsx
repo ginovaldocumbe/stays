@@ -3,7 +3,7 @@ import { BsSearch } from "react-icons/bs";
 
 function Pesquisa(props) {
   return (
-    <div className="flex justify-center md:justify-end md:pr-5">
+    <div className="flex justify-center w-full md:justify-end md:pr-5">
       <div className='flex flex-row mt-5 w-fit h-16 justify-center rounded-2xl  shadow-md '>
         <div className=' border flex items-center px-2 rounded-l-2xl'>
           <label>Nome Pais</label>

@@ -12,6 +12,7 @@ function Mycard(props) {
 
   return (
     <div onLoad={superH} className='mt-5 flex flex-col'>
+      
       <div className='w-full h-80 rounded-3xl'>
         <img className='w-full h-full rounded-3xl' src={props.foto} />
       </div>
